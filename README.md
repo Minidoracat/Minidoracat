@@ -37,7 +37,9 @@
 
 ## 📊 GitHub Stats
 
-![Minidoracat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minidoracat&show_icons=true&theme=default&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Minidoracat&theme=default&hide_border=true)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Minidoracat&theme=default)
 
 ---
 
