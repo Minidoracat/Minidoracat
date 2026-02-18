@@ -21,7 +21,7 @@
 |---------|-------------|
 | [Steam-ZH-Language-Switcher](https://github.com/Minidoracat/Steam-ZH-Language-Switcher) | Tampermonkey script to switch Steam store language between Simplified/Traditional Chinese. |
 | [humanitz-bot](https://github.com/Minidoracat/humanitz-bot) | Discord bot for HumanitZ game server management. |
-| [MinidoracatBuildingResetFor42](https://github.com/Minidoracat/MinidoracatBuildingResetFor42) | Building Reset Mod for Project Zomboid Build 42. |
+| [Project_Zomboid_Memory_Configurator](https://github.com/Minidoracat/Project_Zomboid_Memory_Configurator) | Memory configuration tool for Project Zomboid server optimization. |
 | [twitch-vod-auto-exporter](https://github.com/Minidoracat/twitch-vod-auto-exporter) | Tampermonkey script for auto-exporting Twitch VODs to YouTube. |
 
 ---
