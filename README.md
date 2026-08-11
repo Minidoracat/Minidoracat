@@ -12,26 +12,44 @@
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [mcp-feedback-enhanced](https://github.com/Minidoracat/mcp-feedback-enhanced) | Enhanced MCP server for interactive user feedback in AI-assisted development. Dual interface (Web UI + Desktop App) with cross-platform support. | ⭐ 3.5k+ |
-| [OpenSpec-tw](https://github.com/Minidoracat/OpenSpec-tw) | Spec-driven development for AI coding assistants — Traditional Chinese localization & maintenance. | ⭐ 12 |
+| [mcp-feedback-enhanced](https://github.com/Minidoracat/mcp-feedback-enhanced) | Enhanced MCP server for interactive user feedback in AI-assisted development. Dual interface (Web UI + Desktop App) with cross-platform support. | ⭐ 3.7k+ |
+| [OpenSpec-tw](https://github.com/Minidoracat/OpenSpec-tw) | Spec-driven development for AI coding assistants — Traditional Chinese localization & maintenance. | ⭐ 22 |
+| [ai-code-usage-vscode](https://github.com/Minidoracat/ai-code-usage-vscode) | Track local Claude Code and Codex usage from VS Code. Available on [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=minidoracat.ai-code-usage). | ⭐ 18 |
+| [repolens](https://github.com/Minidoracat/repolens) | AI-powered panoramic code analysis tool. | ⭐ 1 |
 
-### 🎮 Gaming Tools & Mods / 遊戲工具 & Mod
+### 🧟 Project Zomboid B42 Mods / 殭屍毀滅工程模組
+
+繁體中文玩家生態系 — 翻譯、地圖、伺服器工具的完整 MOD 家族，皆持續維護中。
+
+| Project | Description | Workshop |
+|---------|-------------|----------|
+| [MinidoracatLangFor42](https://github.com/Minidoracat/MinidoracatLangFor42) | Build 42 繁體 / 簡體中文完全翻譯（與如一漢化組合作），含出生點地圖漢化。 | [3386633401](https://steamcommunity.com/sharedfiles/filedetails/?id=3386633401) |
+| [MinidoracatModLangFor42](https://github.com/Minidoracat/MinidoracatModLangFor42) | 460+ 個 Workshop 模組的繁體 / 簡體中文翻譯包，自動化追蹤上游文本變更。 | [3765907717](https://steamcommunity.com/sharedfiles/filedetails/?id=3765907717) |
+| [MinidoracatMiniMapFor42](https://github.com/Minidoracat/MinidoracatMiniMapFor42) | 遊戲內世界地圖圖片化（ImagePyramid）——基底全圖 + 地圖包 addon 架構、MOD 地圖框線、多語支援。 | — |
+| [MinidoracatCleanerFor42](https://github.com/Minidoracat/MinidoracatCleanerFor42) | 任意容器物品刪除；地面多餘物件與過繁動物自動清理。 | [3779823349](https://steamcommunity.com/sharedfiles/filedetails/?id=3779823349) |
+| [MinidoracatSafeSpawnFor42](https://github.com/Minidoracat/MinidoracatSafeSpawnFor42) | 登入 / 重生幽靈保護緩衝，管理員可即時切換隱形，全沙盒選項化。 | [3653490664](https://steamcommunity.com/sharedfiles/filedetails/?id=3653490664) |
+| [MinidoracatJavaPatchFor42](https://github.com/Minidoracat/MinidoracatJavaPatchFor42) | 專用伺服器 loose-class 優化 patch——ASM bytecode 手術，不改 jar 本體，uninstall 即回退。 | — |
+
+**Addons**：[MiniMapModMaps](https://github.com/Minidoracat/MinidoracatMiniMapModMapsFor42)（地圖包圖資）· [MiniMapZones](https://github.com/Minidoracat/MinidoracatMiniMapZonesFor42)（伺服器自訂區域）· [MiniMapCompat](https://github.com/Minidoracat/MinidoracatMiniMapCompatFor42)（第三方 MOD 相容）· [BuildingReset](https://github.com/Minidoracat/MinidoracatBuildingResetFor42)（建築重置）
+
+### 🎮 Gaming Tools / 遊戲工具
 
 | Project | Description |
 |---------|-------------|
-| [Steam-ZH-Language-Switcher](https://github.com/Minidoracat/Steam-ZH-Language-Switcher) | Tampermonkey script to switch Steam store language between Simplified/Traditional Chinese. |
 | [humanitzbot](https://github.com/QS-Zuq/humanitzbot) | Discord bot for HumanitZ game server management. |
-| [Project_Zomboid_Memory_Configurator](https://github.com/Minidoracat/Project_Zomboid_Memory_Configurator) | Memory configuration tool for Project Zomboid server optimization. |
+| [pzServerStatusBot](https://github.com/Minidoracat/pzServerStatusBot) | Discord bot for monitoring Project Zomboid and other game servers, with web management interface. |
+| [Steam-ZH-Language-Switcher](https://github.com/Minidoracat/Steam-ZH-Language-Switcher) | Tampermonkey script to switch Steam store language between Simplified/Traditional Chinese. |
 | [twitch-vod-auto-exporter](https://github.com/Minidoracat/twitch-vod-auto-exporter) | Tampermonkey script for auto-exporting Twitch VODs to YouTube. |
 
 ---
 
 ## 🧰 Tech Stack / 技術棧
 
-**Backend**: Python · PHP · Go  
-**Frontend**: JavaScript · TypeScript · React  
-**Game Modding**: Lua · Python  
-**DevOps**: Docker · Linux Server Administration  
+**Backend**: Python · PHP · Go · Java
+**Frontend**: JavaScript · TypeScript · React
+**AI / LLM Tooling**: MCP (Model Context Protocol) · Claude Code ecosystem · Agent orchestration
+**Game Modding**: Lua · Python · ASM bytecode patching
+**DevOps**: Docker · Linux Server Administration
 
 ---
 
