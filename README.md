@@ -25,19 +25,18 @@
 |---------|-------------|----------|
 | [MinidoracatLangFor42](https://github.com/Minidoracat/MinidoracatLangFor42) | Build 42 繁體 / 簡體中文完全翻譯（與如一漢化組合作），含出生點地圖漢化。 | [3386633401](https://steamcommunity.com/sharedfiles/filedetails/?id=3386633401) |
 | [MinidoracatModLangFor42](https://github.com/Minidoracat/MinidoracatModLangFor42) | 460+ 個 Workshop 模組的繁體 / 簡體中文翻譯包，自動化追蹤上游文本變更。 | [3765907717](https://steamcommunity.com/sharedfiles/filedetails/?id=3765907717) |
-| [MinidoracatMiniMapFor42](https://github.com/Minidoracat/MinidoracatMiniMapFor42) | 遊戲內世界地圖圖片化（ImagePyramid）——基底全圖 + 地圖包 addon 架構、MOD 地圖框線、多語支援。 | — |
-| [MinidoracatCleanerFor42](https://github.com/Minidoracat/MinidoracatCleanerFor42) | 任意容器物品刪除；地面多餘物件與過繁動物自動清理。 | [3779823349](https://steamcommunity.com/sharedfiles/filedetails/?id=3779823349) |
-| [MinidoracatSafeSpawnFor42](https://github.com/Minidoracat/MinidoracatSafeSpawnFor42) | 登入 / 重生幽靈保護緩衝，管理員可即時切換隱形，全沙盒選項化。 | [3653490664](https://steamcommunity.com/sharedfiles/filedetails/?id=3653490664) |
+| Minidoracat MiniMap | 遊戲內世界地圖圖片化（ImagePyramid）——基底全圖 + 地圖包 addon 架構、MOD 地圖框線、多語支援。 | [3763913359](https://steamcommunity.com/sharedfiles/filedetails/?id=3763913359) |
+| Minidoracat Cleaner | 任意容器物品刪除；地面多餘物件與過繁動物自動清理。 | [3779823349](https://steamcommunity.com/sharedfiles/filedetails/?id=3779823349) |
+| Minidoracat Safe Spawn | 登入 / 重生幽靈保護緩衝，管理員可即時切換隱形，全沙盒選項化。 | [3653490664](https://steamcommunity.com/sharedfiles/filedetails/?id=3653490664) |
 | [MinidoracatJavaPatchFor42](https://github.com/Minidoracat/MinidoracatJavaPatchFor42) | 專用伺服器 loose-class 優化 patch——ASM bytecode 手術，不改 jar 本體，uninstall 即回退。 | — |
 
-**Addons**：[MiniMapModMaps](https://github.com/Minidoracat/MinidoracatMiniMapModMapsFor42)（地圖包圖資）· [MiniMapZones](https://github.com/Minidoracat/MinidoracatMiniMapZonesFor42)（伺服器自訂區域）· [MiniMapCompat](https://github.com/Minidoracat/MinidoracatMiniMapCompatFor42)（第三方 MOD 相容）· [BuildingReset](https://github.com/Minidoracat/MinidoracatBuildingResetFor42)（建築重置）
+**MiniMap Addons**：[MOD Maps](https://steamcommunity.com/sharedfiles/filedetails/?id=3763914102)（地圖包圖資 · [原始碼](https://github.com/Minidoracat/MinidoracatMiniMapModMapsFor42)）· [Zones](https://steamcommunity.com/sharedfiles/filedetails/?id=3768276209)（伺服器自訂區域）· [MOD Compatibility](https://steamcommunity.com/sharedfiles/filedetails/?id=3765182411)（第三方 MOD 相容）
 
 ### 🎮 Gaming Tools / 遊戲工具
 
 | Project | Description |
 |---------|-------------|
 | [humanitzbot](https://github.com/QS-Zuq/humanitzbot) | Discord bot for HumanitZ game server management. |
-| [pzServerStatusBot](https://github.com/Minidoracat/pzServerStatusBot) | Discord bot for monitoring Project Zomboid and other game servers, with web management interface. |
 | [Steam-ZH-Language-Switcher](https://github.com/Minidoracat/Steam-ZH-Language-Switcher) | Tampermonkey script to switch Steam store language between Simplified/Traditional Chinese. |
 | [twitch-vod-auto-exporter](https://github.com/Minidoracat/twitch-vod-auto-exporter) | Tampermonkey script for auto-exporting Twitch VODs to YouTube. |
 
